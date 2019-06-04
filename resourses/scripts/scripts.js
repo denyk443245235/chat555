@@ -1,6 +1,6 @@
 $(document).ready(() => {
   var a = 0;
-  var socet = io('http://localhost:8080');
+  var socet = io('https://chat222222.herokuapp.com');
   // socet.on('Users',(users) =>{
   // $('.header').html(`${users}`);
   // });
